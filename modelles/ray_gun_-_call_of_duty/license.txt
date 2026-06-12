@@ -1,0 +1,8 @@
+Model Information:
+* title:	Ray Gun - Call of Duty
+* source:	https://sketchfab.com/3d-models/ray-gun-call-of-duty-ff19e433523341d9b0b18708ab324cf0
+* author:	Louis Beveridge (https://sketchfab.com/louisbeveridge)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

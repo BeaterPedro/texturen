@@ -1,0 +1,8 @@
+Model Information:
+* title:	Juggernog Perk Machine
+* source:	https://sketchfab.com/3d-models/juggernog-perk-machine-85e942a132ff46849ff46b54e99b9965
+* author:	Jmcnamara5 (https://sketchfab.com/Jmcnamara5)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works

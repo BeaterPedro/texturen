@@ -1,0 +1,11 @@
+Model Information:
+* title:	Zombie Infantry - Call of Duty: World At War
+* source:	https://sketchfab.com/3d-models/zombie-infantry-call-of-duty-world-at-war-0045119fb6144e24ac03f9a5bb9dae2c
+* author:	Nazar Okruzhko (Назар Окружко) (https://sketchfab.com/Deduska_1947)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Zombie Infantry - Call of Duty: World At War" (https://sketchfab.com/3d-models/zombie-infantry-call-of-duty-world-at-war-0045119fb6144e24ac03f9a5bb9dae2c) by Nazar Okruzhko (Назар Окружко) (https://sketchfab.com/Deduska_1947) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
