@@ -1,0 +1,43 @@
+# Build-Verzeichnisse
+build/
+out/
+cmake-build-*/
+.cmake/
+
+# CMake-generierte Dateien
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+*.cmake
+
+# Binaries
+*.exe
+*.out
+*.app
+
+# IDEs
+.vscode/
+.idea/
+*.user
+*.suo
+*.sln
+*.vcxproj
+*.vcxproj.filters
+
+# Abhängigkeiten (werden von CMake FetchContent heruntergeladen)
+_deps/
+
+# macOS
+.DS_Store
+
+# Linux
+*.o
+*.a
+*.so
+
+# Windows
+*.obj
+*.lib
+*.dll
+*.pdb
